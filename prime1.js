@@ -1,4 +1,4 @@
-let a=7;
+let a=11;
 let count=0;
 for(let i-1;i<=a;i++)
 { 
